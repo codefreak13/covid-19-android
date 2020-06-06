@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "332984392756",
+    "firebase_url": "https://covid-symptom-tracker-1637f.firebaseio.com",
+    "project_id": "covid-symptom-tracker-1637f",
+    "storage_bucket": "covid-symptom-tracker-1637f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332984392756:android:c22b731340b72be177be61",
+        "android_client_info": {
+          "package_name": "com.covid_19.aegle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332984392756-lcmdk145pmg4gojiq3m10ij908flkrjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTds2JzssroOMlyn3gh1_Gk67CZK6Fqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332984392756-lcmdk145pmg4gojiq3m10ij908flkrjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332984392756-qkp5jej8qo01rdqk0tj5as1pd8b9e4oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamgrace.covid-19-symptom-tracker-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332984392756:android:c1a321e9c728f15e77be61",
+        "android_client_info": {
+          "package_name": "com.covid_19_app.aegle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332984392756-lcmdk145pmg4gojiq3m10ij908flkrjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTds2JzssroOMlyn3gh1_Gk67CZK6Fqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332984392756-lcmdk145pmg4gojiq3m10ij908flkrjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332984392756-qkp5jej8qo01rdqk0tj5as1pd8b9e4oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamgrace.covid-19-symptom-tracker-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
